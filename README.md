@@ -1,7 +1,7 @@
 HOW TO BE A TERMINAL PRO - 100 COMMANDS TO KNOW
 [https://code.tutsplus.com/courses/how-to-be-a-terminal-pro](https://code.tutsplus.com/courses/how-to-be-a-terminal-pro) and [https://code.tutsplus.com/courses/advanced-command-line-techniques](https://code.tutsplus.com/courses/advanced-command-line-techniques)
 
-In the SHELL
+In the SHELL:
 ### hello terminal
 1. echo "hello world" or with with options echo -n "hello world"
 2. ctrl a and ctrl e (start and end of line)
@@ -35,8 +35,8 @@ In the SHELL
 26. rm santa.txt (remove it) or rm -r santa (remove and remove recursive)
 27. rmdir (delete a directory) could also use rm -r (to delete a folder)
 28. ln -s beans1 beans2 (soft symbolic link to point to another)
-29. ln beans beans2 (hard shortcut link)
-
+29. ln beans1 beans2 (hard shortcut link)
+#### Revision up to here 28 Feb 2018
 ### finding files and text in files
 30. find . -name "*.txt" (search current directory)
 31. find . -type f (find all the files)
